@@ -7,3 +7,6 @@ public class MyClass00 {
 
     }
 }
+
+class Woo {}
+class Wow {}
